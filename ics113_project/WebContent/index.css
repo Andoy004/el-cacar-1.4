@@ -1,0 +1,49 @@
+body{
+	background-image:url("img/b.jpg");
+	background-repeat:none;
+	background-size:100% 100% ;
+	background-attachment: fixed;
+}
+
+.header{
+	background-image:url("img/beach.jpg");
+	background-repeat:none;
+	background-size:100% 100% ;
+}
+
+.header p {
+	font-size:18px;
+	color:white;
+	text-shadow:0px;
+	font-family: bradley hand itc;
+}
+
+.body{
+	margin-top:20px;
+}
+
+.form{
+	background-color:rgba(0,0,0,.2);
+}
+
+.b h4{
+	color: black; 
+	font-family: Lucida Handwriting; 
+	
+}
+
+.b p {
+	color:black;
+	text-align:justify;
+	font-family: century gothic; 
+	font-size: 15px;
+}
+label{
+	font-family: Century Gothic;
+}
+input{
+	font-family: Century Gothic;
+}
+a{
+	font-family: Century Gothic;
+}

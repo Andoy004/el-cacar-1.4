@@ -1,0 +1,41 @@
+
+
+.tble{
+background-color:rgba(225,225,225,.3);
+}
+
+#p1{
+background-color:rgba(225,225,225,.3);
+}
+
+.terms{
+background-color:rgba(225,225,225,.3);
+}
+
+
+.efee{
+background-color:rgba(225,225,225,.3);
+}
+
+
+
+
+
+@font-face{
+	font-family: coal;
+	src: url('coal.ttf');
+}
+
+@font-face{
+	font-family: coal;
+	src: url('coal.ttf');
+}
+
+.body .efee ul li ul li{
+	display: inline;
+}
+
+.terms p{
+	margin-left: 50px;
+	margin-right: 50px;
+}

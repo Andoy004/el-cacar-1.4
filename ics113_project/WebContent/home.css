@@ -1,0 +1,126 @@
+body{
+	background-image:url("img/b.jpg");
+	background-repeat:none;
+	background-size:100% 100% ;
+	background-attachment: fixed;
+	
+}
+
+.header{
+	background-image:url("img/beach.jpg");
+	background-repeat:none;
+	background-size:100% 100% ;
+	margin-top:20px;
+}
+
+.header p {
+	font-size:18px;
+	color:white;
+	text-shadow:0px;
+	font-family: bradley hand itc;
+}
+
+.header h1{
+	color:black;
+	font-family: Blackadder ITC;
+	font-size: 45px;
+	
+}
+.form h2{
+	font-family: Century gothc; 
+	font-size: 21px;
+}
+
+
+.pic{
+	height:50px;
+	width:50px;
+}
+.minibody{
+background-color:rgba(50,50,0,0.05);
+}
+
+.minibody p {
+	color:black;
+	text-align:justify;
+	font-family: Century Gothic;
+}
+.minibody h3 {
+	color:black;
+	font-family: Lucida Handwriting;
+}
+.minibody h4{
+	font-family: Century Gothic;
+	color: black;
+}
+.minibody h5{
+	font-family: Century Gothic;
+	color: black;
+}
+.minibody img{
+	height: 50px;
+	width: 50px;
+}
+.h1{
+	font-family: Century Gothic; 
+}
+.img{
+	width:200px;
+	height:200px;
+}
+img.map{
+	width: 320px; 
+	height: 450px;
+	border-radius:10px;
+}
+span{
+	color:blue;
+	font-size:25px;
+}
+
+
+.foot{
+	background-color:rgba(0,0,0,.3);
+	color:black;
+}
+.footer{
+	margin-bottom:400px;
+}
+
+.logout{
+	width:90px;
+	height:50px;
+	
+}
+
+a:link{
+color:#D6EBFF;
+}
+a:visited{
+color:#D6EBFF;
+}
+h4{
+	font-family: Century Gothic;
+}
+.col-md-12 h1{
+	font-family: Century Gothic;
+}
+.col-md-6 h4{
+	font-family: Century Gothic;
+	color: #D6EBFF;
+}
+.col-md-12 h2{
+	font-family: Lucida Handwriting;
+	color: black;
+}
+.col-md-12 p{
+	font-family: Century Gothic;
+	color: black; 
+	font-size: 15px;
+}
+p.prof{
+	align: center;
+	font-family: Century Gothic;
+	color: black; 
+	font-size: 15px;
+}
